@@ -1,5 +1,15 @@
 # Webpack Starter
+This is a basic starter kit for ES6 transpiled projects using webpack-dev-server/babel-loader plus glup. 
 
-## Webpack Dev Server with Babel loader
-This is an extremely basic starter for Webpack / Babel that I originally made for myself as I found myself repeating the same steps when starting a new project. 
+## Why? 
+boilerplate code
+
+## Who? 
+the baddest mc in the west
+
+## What? 
+lolz 
+
+This was made for me personally and may one day be expanded into something useful. 
+
 
