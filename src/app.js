@@ -1,4 +1,2 @@
 
-(function(){
-	alert('poop')
-}())
+// entry
