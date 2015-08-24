@@ -1,0 +1,39 @@
+{
+  "name": "webpack-starter",
+  "version": "0.0.1",
+  "description": "A simple webpack starter with babel loader",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "xo": {
+    "esnext": true,
+    "spaces": true,
+    "ignores": [
+      "gulp/**"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltonjuan/webpack-starter.git"
+  },
+  "keywords": [
+    "webpack",
+    "es6",
+    "starter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eltonjuan/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/eltonjuan/webpack-starter#readme",
+  "devDependencies": {
+    "del": "^1.2.1",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "webpack": "^1.11.0",
+    "webpack-dev-server": "^1.10.1",
+    "xo": "^0.7.1"
+  }
+}
